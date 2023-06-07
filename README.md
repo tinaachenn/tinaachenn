@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-Hi! I'm Tina 🌟
+## Hi! I'm Tina 🌟
 
 - 🎓 I'm a junior at Swarthmore College studying computer science and architecture!
 - 🌱 I’m currently learning web development through the Odin Project as well as 3D modeling.
