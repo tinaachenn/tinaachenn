@@ -4,8 +4,10 @@
 
 - 🎓 I'm a junior at Swarthmore College studying computer science and architecture!
 - 🌱 I’m currently learning web development through the Odin Project as well as 3D modeling.
-- 📫 How to reach me: tinaachenn14@gmail.com, tinaachenn (ig)
+- 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on instagram
 - ⚡ Fun fact: I'm an Irish twin! 
+- 🎱 I love playing PC games like minecraft and valorant and I dapple in the arts.
+- 🛹 I'm learning how to skate! 
 
 <!--
 **tinaachenn/tinaachenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
