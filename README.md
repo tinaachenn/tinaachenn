@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi! I'm Tina 🌟
+
+- 🎓 I'm a junior at Swarthmore College studying computer science and architecture!
+- 🌱 I’m currently learning web development through the Odin Project as well as 3D modeling.
+- 📫 How to reach me: tinaachenn14@gmail.com, tinaachenn (ig)
+- ⚡ Fun fact: I'm an Irish twin! 
+
 <!--
 **tinaachenn/tinaachenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
