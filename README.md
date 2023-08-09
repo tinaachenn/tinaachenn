@@ -1,10 +1,10 @@
 ## Hi! I'm Tina 🌟
 
 - 🎓 I'm a junior at Swarthmore College studying computer science and architecture!
-- 🌱 I’m currently learning web development through the Odin Project as well as 3D modeling.
+- 🌱 I’m currently learning web development through the Odin Project.
 - 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on instagram
-- ⚡ Fun fact: I'm an Irish twin! 
-- 🎱 I love playing PC games like minecraft and valorant and I dapple in the arts.
+- ⚡ Fun fact: 
+- 🎱 I enjoy playing PC games like minecraft and valorant and sometimes I do art!
 - 🛹 I'm learning how to skate! 
 
 <!--
