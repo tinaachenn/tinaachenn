@@ -1,7 +1,6 @@
 ## Hi! I'm Tina 🌟
 
 - 🎓 I'm a junior at Swarthmore College studying computer science and architecture
-- 🌱 I’m currently learning web development through the Odin Project.
 - 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on linkedin
 - ⚡ Fun fact: 
 - 🎱 I enjoy playing PC games like minecraft and valorant and sometimes I do art!
@@ -9,6 +8,8 @@
 
 <!--
 ### Hi there 👋
+
+- 🌱 I’m currently learning web development through the Odin Project.
 
 Here are some ideas to get you started:
 
