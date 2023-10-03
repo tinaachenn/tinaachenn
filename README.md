@@ -2,9 +2,9 @@
 
 - 🎓 I'm a junior at Swarthmore College studying computer science and architecture
 - 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on linkedin
-- ⚡ Fun fact: 
+- ⚡ Fun fact: My model of Parrish Hall (made completely out of plastic utensils and packaging) is a part of Swarthmore's Parrish archives!
 - 🎱 I enjoy playing PC games like minecraft and valorant and sometimes I do art!
-- 🛹 I'm learning how to skate! 
+- 🛹 I'm learning how to skate >:)
 
 <!--
 ### Hi there 👋
