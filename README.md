@@ -1,15 +1,16 @@
 ## Hi! I'm Tina 🌟
 
-- 🎓 I'm a junior at Swarthmore College studying computer science and architecture
-- 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on linkedin
+- 🎓 I'm a junior at Swarthmore College studying computer science and architecture.
+- 🌱 I’m currently learning web development & working on a Swarthmore nagivation web application.
 - ⚡ Fun fact: My model of Parrish Hall (made completely out of plastic utensils and packaging) is a part of Swarthmore's Parrish archives!
-- 🎱 I enjoy playing PC games like minecraft and valorant and sometimes I do art!
-- 🛹 I'm learning how to skate >:)
-
+- 🎱 I enjoy playing PC games like minecraft and valorant, cruising on my skateboard, and sometimes I do art!
+- 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on linkedin
+- 
 <!--
 ### Hi there 👋
 
 - 🌱 I’m currently learning web development through the Odin Project.
+- 🛹 I'm learning how to skate 
 
 Here are some ideas to get you started:
 
