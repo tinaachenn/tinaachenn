@@ -5,7 +5,7 @@
 - ⚡ Fun fact: My model of Parrish Hall (made completely out of plastic utensils and packaging) is a part of Swarthmore's Parrish archives!
 - 🎱 I enjoy playing PC games like minecraft and valorant, cruising on my skateboard, and sometimes I do art!
 - 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on linkedin
-- 
+
 <!--
 ### Hi there 👋
 
