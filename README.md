@@ -3,7 +3,7 @@
 - 🎓 I'm a junior at Swarthmore College studying computer science and architecture.
 - 🌱 I’m currently learning web development & working on a Swarthmore nagivation web application.
 - ⚡ Fun fact: My model of Parrish Hall (made completely out of plastic utensils and packaging) is a part of Swarthmore's Parrish archives!
-- 🎱 I enjoy playing PC games like minecraft and valorant, cruising on my skateboard, and sometimes I do art!
+- 🎱 I enjoy playing PC games like minecraft and valorant, cruising on my skateboard, and sketching!
 - 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on linkedin
 
 <!--
