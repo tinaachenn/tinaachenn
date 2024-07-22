@@ -1,7 +1,7 @@
 ## Hi! I'm Tina 🌟
 
-- 🎓 I'm a junior at Swarthmore College studying computer science and architecture.
-- 🌱 I’m currently learning react & three.js :)
+- 🎓 I'm a senior at Swarthmore College studying computer science and architecture.
+- 🌱 I’m currently learning 3d modeling & three.js :)
 - ⚡ Fun fact: My model of Parrish Hall (made of plastic utensils and packaging) is a part of Swarthmore's Parrish historical archives!
 - 🎱 I enjoy playing PC games like minecraft and valorant, cruising on my skateboard, and sketching!
 - 📫 Reach me at tinaachenn14@gmail.com and tinaachenn on linkedin
